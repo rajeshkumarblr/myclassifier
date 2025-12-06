@@ -28,5 +28,4 @@ ENV/
 env/
 
 # Project specific
-data/
 *.pth
